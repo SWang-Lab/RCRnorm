@@ -1,0 +1,1 @@
+Please cite: Jia G, Wang X, Li Q, Lu W, Tang X, Wistuba I, Xie Y. RCRnorm: An integrated system of random-coefficient hierarchical regression models for normalizing NanoString nCounter data. Ann Appl Stat. 2019 Sep;13(3):1617-1647. doi: 10.1214/19-aoas1249. Epub 2019 Oct 17. PMID: 33564347; PMCID: PMC7869841.
